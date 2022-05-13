@@ -7,6 +7,7 @@ Complete the following tasks by only using the command line. If you're on Replit
 1. Create a new directory called `Subfolder`.
 1. Copy `Main.java` into `Subfolder`.
 1. Move `Student.java` into `Subfolder`.
+1. Change your directory to `Subfolder`.
 1. Compile the two java files.
 1. List the files. There should be four files.
 1. Run the program.
